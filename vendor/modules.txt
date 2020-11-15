@@ -2,6 +2,9 @@
 ## explicit
 github.com/brianvoe/gofakeit/v5
 github.com/brianvoe/gofakeit/v5/data
+# github.com/jessevdk/go-flags v1.4.0
+## explicit
+github.com/jessevdk/go-flags
 # github.com/streadway/amqp v1.0.0
 ## explicit
 github.com/streadway/amqp
