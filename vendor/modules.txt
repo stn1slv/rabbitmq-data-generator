@@ -1,0 +1,7 @@
+# github.com/brianvoe/gofakeit/v5 v5.10.1
+## explicit
+github.com/brianvoe/gofakeit/v5
+github.com/brianvoe/gofakeit/v5/data
+# github.com/streadway/amqp v1.0.0
+## explicit
+github.com/streadway/amqp
